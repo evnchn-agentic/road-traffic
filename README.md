@@ -47,7 +47,7 @@ Pedestrian signals (Denmark vs Hong Kong) → early-amber shower thought → per
 
 [`transcript.md`](./transcript.md) — original mistakes preserved. Evan's first turn assumed Hong Kong; Claude answered Hong Kong; Evan corrected to Denmark; the conversation continued from there. The corrections are the learning.
 
-[`FACTCHECK.md`](./FACTCHECK.md) — Claude's traffic claims checked against primary sources in October 2026, six months on. 7 were wrong, including the "fully protected" European pedestrian phase the session leaned on.
+[`FACTCHECK.md`](./FACTCHECK.md) — Claude's traffic claims checked against primary sources in October 2026, six months on. 5 were wrong, including the "fully protected" Danish pedestrian phase the session leaned on.
 
 ---
 
