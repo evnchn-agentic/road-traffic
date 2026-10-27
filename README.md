@@ -47,6 +47,8 @@ Pedestrian signals (Denmark vs Hong Kong) → early-amber shower thought → per
 
 [`transcript.md`](./transcript.md) — original mistakes preserved. Evan's first turn assumed Hong Kong; Claude answered Hong Kong; Evan corrected to Denmark; the conversation continued from there. The corrections are the learning.
 
+[`FACTCHECK.md`](./FACTCHECK.md) — Claude's traffic claims checked against primary sources in October 2026, six months on. 5 were wrong, including the "fully protected" Danish pedestrian phase the session leaned on.
+
 ---
 
 *Read the [full agentic-learning philosophy →](https://github.com/evnchn-agentic/.github/blob/main/PHILOSOPHY_THINKER.md)*
